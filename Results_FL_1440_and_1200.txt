@@ -1,0 +1,362 @@
+Alg_2_1440u_8t_Parallel_100f_T1:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 21724 Frames: 100 Media ET/F: 217.24
+
+Alg_2_1440u_8t_Parallel_100f_T2:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 20949 Frames: 100 Media ET/F: 209.49
+
+Alg_2_1440u_8t_Parallel_100f_T3:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 19930 Frames: 100 Media ET/F: 199.30
+
+Alg_2_1440u_8t_Parallel_100f_T4:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 22520 Frames: 100 Media ET/F: 225.20
+
+Alg_2_1440u_8t_Parallel_100f_T5:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 22078 Frames: 100 Media ET/F: 220.78
+
+Alg_2_1440u_8t_Parallel_100f_T6:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 1, Finished Execution, Execution Time: 21471 Frames: 100 Media ET/F: 214.71
+
+Alg_2_1440u_8t_Parallel_100f_T7:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 1, Finished Execution, Execution Time: 21601 Frames: 100 Media ET/F: 216.01
+
+Alg_2_1440u_8t_Parallel_100f_T8:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 1, Finished Execution, Execution Time: 21979 Frames: 100 Media ET/F: 219.79
+
+Alg_2_1440u_8t_Parallel_100f_T9:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21161 Frames: 100 Media ET/F: 211.61
+
+Alg_2_1440u_8t_Parallel_100f_T10:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 1, Finished Execution, Execution Time: 21847 Frames: 100 Media ET/F: 218.47
+
+Alg_2_1440u_8t_Parallel_100f_T11:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 1, Finished Execution, Execution Time: 21728 Frames: 100 Media ET/F: 217.28
+
+Alg_2_1440u_8t_Parallel_100f_T12:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 1, Finished Execution, Execution Time: 22574 Frames: 100 Media ET/F: 225.74
+
+Alg_2_1440u_6t_Parallel_100f_T1:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 22212 Frames: 100 Media ET/F: 222.12
+
+Alg_2_1440u_6t_Parallel_100f_T2:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 22022 Frames: 100 Media ET/F: 220.22
+
+Alg_2_1440u_6t_Parallel_100f_T3:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 20544 Frames: 100 Media ET/F: 205.44
+
+Alg_2_1440u_6t_Parallel_100f_T4:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 20224 Frames: 100 Media ET/F: 202.24
+
+Alg_2_1440u_6t_Parallel_100f_T5:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 21076 Frames: 100 Media ET/F: 210.76
+
+Alg_2_1440u_6t_Parallel_100f_T6:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21670 Frames: 100 Media ET/F: 216.70
+
+Alg_2_1440u_6t_Parallel_100f_T7:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 20804 Frames: 100 Media ET/F: 208.04
+
+Alg_2_1440u_6t_Parallel_100f_T8:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 21504 Frames: 100 Media ET/F: 215.04
+
+Alg_2_1440u_6t_Parallel_100f_T9:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 21708 Frames: 100 Media ET/F: 217.08
+
+Alg_2_1440u_6t_Parallel_100f_T10:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 21434 Frames: 100 Media ET/F: 214.34
+
+Alg_2_1440u_6t_Parallel_100f_T11:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 21358 Frames: 100 Media ET/F: 213.58
+
+Alg_2_1440u_6t_Parallel_100f_T12:
+A_FPS: 4 Max_FPS: 7 Min_FPS: 0, Finished Execution, Execution Time: 21360 Frames: 100 Media ET/F: 213.60
+
+Alg_2_1440u_4t_Parallel_100f_T1:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 20551 Frames: 100 Media ET/F: 205.51
+
+Alg_2_1440u_4t_Parallel_100f_T2:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 0, Finished Execution, Execution Time: 22345 Frames: 100 Media ET/F: 223.45
+
+Alg_2_1440u_4t_Parallel_100f_T3:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 20724 Frames: 100 Media ET/F: 207.24
+
+Alg_2_1440u_4t_Parallel_100f_T4:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 22625 Frames: 100 Media ET/F: 226.25
+
+Alg_2_1440u_4t_Parallel_100f_T5:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 21283 Frames: 100 Media ET/F: 212.83
+
+Alg_2_1440u_4t_Parallel_100f_T6:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 21891 Frames: 100 Media ET/F: 218.91
+
+Alg_2_1440u_4t_Parallel_100f_T7:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 21048 Frames: 100 Media ET/F: 210.48
+
+Alg_2_1440u_4t_Parallel_100f_T8:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 22265 Frames: 100 Media ET/F: 222.65
+
+Alg_2_1440u_4t_Parallel_100f_T9:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 23131 Frames: 100 Media ET/F: 231.31
+
+Alg_2_1440u_4t_Parallel_100f_T10:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 21930 Frames: 100 Media ET/F: 219.30
+
+Alg_2_1440u_4t_Parallel_100f_T11:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 22128 Frames: 100 Media ET/F: 221.28
+
+Alg_2_1440u_4t_Parallel_100f_T12:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 0, Finished Execution, Execution Time: 21726 Frames: 100 Media ET/F: 217.26
+
+Alg_2_1440u_2t_Parallel_100f_T1:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25443 Frames: 100 Media ET/F: 254.43
+
+Alg_2_1440u_2t_Parallel_100f_T2:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25075 Frames: 100 Media ET/F: 250.75
+
+Alg_2_1440u_2t_Parallel_100f_T3:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25571 Frames: 100 Media ET/F: 255.71
+
+Alg_2_1440u_2t_Parallel_100f_T4:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25396 Frames: 100 Media ET/F: 253.96
+
+Alg_2_1440u_2t_Parallel_100f_T5:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25288 Frames: 100 Media ET/F: 252.88
+
+Alg_2_1440u_2t_Parallel_100f_T6:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25383 Frames: 100 Media ET/F: 253.83
+
+Alg_2_1440u_2t_Parallel_100f_T7:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25361 Frames: 100 Media ET/F: 253.61
+
+Alg_2_1440u_2t_Parallel_100f_T8:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 24944 Frames: 100 Media ET/F: 249.44
+
+Alg_2_1440u_2t_Parallel_100f_T9:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 25107 Frames: 100 Media ET/F: 251.07
+
+Alg_2_1440u_2t_Parallel_100f_T10:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 24407 Frames: 100 Media ET/F: 244.07
+
+Alg_2_1440u_2t_Parallel_100f_T11:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 24804 Frames: 100 Media ET/F: 248.04
+
+Alg_2_1440u_2t_Parallel_100f_T12:
+A_FPS: 3 Max_FPS: 4 Min_FPS: 0, Finished Execution, Execution Time: 24836 Frames: 100 Media ET/F: 248.36
+
+Alg_2_1200u_8t_Parallel_100f_T1:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 21694 Frames: 100 Media ET/F: 216.94
+
+Alg_2_1200u_8t_Parallel_100f_T2:
+A_FPS: 5 Max_FPS: 10 Min_FPS: 1, Finished Execution, Execution Time: 20878 Frames: 100 Media ET/F: 208.78
+
+Alg_2_1200u_8t_Parallel_100f_T3:
+A_FPS: 5 Max_FPS: 10 Min_FPS: 1, Finished Execution, Execution Time: 22323 Frames: 100 Media ET/F: 223.23
+
+Alg_2_1200u_8t_Parallel_100f_T4:
+A_FPS: 5 Max_FPS: 11 Min_FPS: 1, Finished Execution, Execution Time: 21353 Frames: 100 Media ET/F: 213.53
+
+Alg_2_1200u_8t_Parallel_100f_T5:
+A_FPS: 5 Max_FPS: 10 Min_FPS: 1, Finished Execution, Execution Time: 21075 Frames: 100 Media ET/F: 210.75
+
+Alg_2_1200u_8t_Parallel_100f_T6:
+A_FPS: 5 Max_FPS: 10 Min_FPS: 1, Finished Execution, Execution Time: 21376 Frames: 100 Media ET/F: 213.76
+
+Alg_2_1200u_8t_Parallel_100f_T7:
+A_FPS: 5 Max_FPS: 10 Min_FPS: 0, Finished Execution, Execution Time: 21620 Frames: 100 Media ET/F: 216.20
+
+Alg_2_1200u_8t_Parallel_100f_T8:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 22302 Frames: 100 Media ET/F: 223.02
+
+Alg_2_1200u_8t_Parallel_100f_T9:
+A_FPS: 5 Max_FPS: 10 Min_FPS: 1, Finished Execution, Execution Time: 20717 Frames: 100 Media ET/F: 207.17
+
+Alg_2_1200u_8t_Parallel_100f_T10:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 21704 Frames: 100 Media ET/F: 217.04
+
+Alg_2_1200u_8t_Parallel_100f_T11:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 21095 Frames: 100 Media ET/F: 210.95
+
+Alg_2_1200u_8t_Parallel_100f_T12:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 21132 Frames: 100 Media ET/F: 211.32
+
+Alg_2_1200u_6t_Parallel_100f_T1:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21063 Frames: 100 Media ET/F: 210.63
+
+Alg_2_1200u_6t_Parallel_100f_T2:
+A_FPS: 4 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20782 Frames: 100 Media ET/F: 207.82
+
+Alg_2_1200u_6t_Parallel_100f_T3:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20742 Frames: 100 Media ET/F: 207.42
+
+Alg_2_1200u_6t_Parallel_100f_T4:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20783 Frames: 100 Media ET/F: 207.83
+
+Alg_2_1200u_6t_Parallel_100f_T5:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21003 Frames: 100 Media ET/F: 210.03
+
+Alg_2_1200u_6t_Parallel_100f_T6:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20775 Frames: 100 Media ET/F: 207.75
+
+Alg_2_1200u_6t_Parallel_100f_T7:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 20137 Frames: 100 Media ET/F: 201.37
+
+Alg_2_1200u_6t_Parallel_100f_T8:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20457 Frames: 100 Media ET/F: 204.57
+
+Alg_2_1200u_6t_Parallel_100f_T9:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21005 Frames: 100 Media ET/F: 210.05
+
+Alg_2_1200u_6t_Parallel_100f_T10:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20224 Frames: 100 Media ET/F: 202.24
+
+Alg_2_1200u_6t_Parallel_100f_T11:
+A_FPS: 5 Max_FPS: 12 Min_FPS: 1, Finished Execution, Execution Time: 21574 Frames: 100 Media ET/F: 215.74
+
+Alg_2_1200u_6t_Parallel_100f_T12:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20572 Frames: 100 Media ET/F: 205.72
+
+Alg_2_1200u_4t_Parallel_100f_T1:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 20745 Frames: 100 Media ET/F: 207.45
+
+Alg_2_1200u_4t_Parallel_100f_T2:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 19354 Frames: 100 Media ET/F: 193.54
+
+Alg_2_1200u_4t_Parallel_100f_T3:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21396 Frames: 100 Media ET/F: 213.96
+
+Alg_2_1200u_4t_Parallel_100f_T4:
+A_FPS: 5 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20785 Frames: 100 Media ET/F: 207.85
+
+Alg_2_1200u_4t_Parallel_100f_T5:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21020 Frames: 100 Media ET/F: 210.20
+
+Alg_2_1200u_4t_Parallel_100f_T6:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 20600 Frames: 100 Media ET/F: 206.00
+
+Alg_2_1200u_4t_Parallel_100f_T7:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21466 Frames: 100 Media ET/F: 214.66
+
+Alg_2_1200u_4t_Parallel_100f_T8:
+A_FPS: 4 Max_FPS: 9 Min_FPS: 1, Finished Execution, Execution Time: 20689 Frames: 100 Media ET/F: 206.89
+
+Alg_2_1200u_4t_Parallel_100f_T9:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 0, Finished Execution, Execution Time: 20803 Frames: 100 Media ET/F: 208.03
+
+Alg_2_1200u_4t_Parallel_100f_T10:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 19753 Frames: 100 Media ET/F: 197.53
+
+Alg_2_1200u_4t_Parallel_100f_T11:
+A_FPS: 5 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 20864 Frames: 100 Media ET/F: 208.64
+
+Alg_2_1200u_4t_Parallel_100f_T12:
+A_FPS: 4 Max_FPS: 8 Min_FPS: 1, Finished Execution, Execution Time: 21277 Frames: 100 Media ET/F: 212.77
+
+Alg_2_1200u_2t_Parallel_100f_T1:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 0, Finished Execution, Execution Time: 20998 Frames: 100 Media ET/F: 209.98
+
+Alg_2_1200u_2t_Parallel_100f_T2:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21167 Frames: 100 Media ET/F: 211.67
+
+Alg_2_1200u_2t_Parallel_100f_T3:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21273 Frames: 100 Media ET/F: 212.73
+
+Alg_2_1200u_2t_Parallel_100f_T4:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 1, Finished Execution, Execution Time: 22594 Frames: 100 Media ET/F: 225.94
+
+Alg_2_1200u_2t_Parallel_100f_T5:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 1, Finished Execution, Execution Time: 21441 Frames: 100 Media ET/F: 214.41
+
+Alg_2_1200u_2t_Parallel_100f_T6:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21253 Frames: 100 Media ET/F: 212.53
+
+Alg_2_1200u_2t_Parallel_100f_T7:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 1, Finished Execution, Execution Time: 21488 Frames: 100 Media ET/F: 214.88
+
+Alg_2_1200u_2t_Parallel_100f_T8:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21545 Frames: 100 Media ET/F: 215.45
+
+Alg_2_1200u_2t_Parallel_100f_T9:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 1, Finished Execution, Execution Time: 21899 Frames: 100 Media ET/F: 218.99
+
+Alg_2_1200u_2t_Parallel_100f_T10:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21423 Frames: 100 Media ET/F: 214.23
+
+Alg_2_1200u_2t_Parallel_100f_T11:
+A_FPS: 4 Max_FPS: 6 Min_FPS: 1, Finished Execution, Execution Time: 21463 Frames: 100 Media ET/F: 214.63
+
+Alg_2_1200u_2t_Parallel_100f_T12:
+A_FPS: 4 Max_FPS: 5 Min_FPS: 1, Finished Execution, Execution Time: 21988 Frames: 100 Media ET/F: 219.88
+
+
+
+Alg_2_1440u_1t_Sequential_100f_T1:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 226440 Frames: 100 Media ET/F: 2264.40
+
+Alg_2_1440u_1t_Sequential_100f_T2:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 216302 Frames: 100 Media ET/F: 2163.02
+
+Alg_2_1440u_1t_Sequential_100f_T3:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 223207 Frames: 100 Media ET/F: 2232.07
+
+Alg_2_1440u_1t_Sequential_100f_T4:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 222766 Frames: 100 Media ET/F: 2227.66
+
+Alg_2_1440u_1t_Sequential_100f_T5:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 218260 Frames: 100 Media ET/F: 2182.60
+
+Alg_2_1440u_1t_Sequential_100f_T6:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 226811 Frames: 100 Media ET/F: 2268.11
+
+Alg_2_1440u_1t_Sequential_100f_T7:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 219830 Frames: 100 Media ET/F: 2198.30
+
+Alg_2_1440u_1t_Sequential_100f_T8:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 219806 Frames: 100 Media ET/F: 2198.06
+
+Alg_2_1440u_1t_Sequential_100f_T9:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 227028 Frames: 100 Media ET/F: 2270.28
+
+Alg_2_1440u_1t_Sequential_100f_T10:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 217081 Frames: 100 Media ET/F: 2170.81
+
+Alg_2_1440u_1t_Sequential_100f_T11:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 222951 Frames: 100 Media ET/F: 2229.51
+
+Alg_2_1440u_1t_Sequential_100f_T12:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 223206 Frames: 100 Media ET/F: 2232.06
+
+Alg_2_1200u_1t_Sequential_100f_T1:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 152521 Frames: 100 Media ET/F: 1525.21
+
+Alg_2_1200u_1t_Sequential_100f_T2:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 155276 Frames: 100 Media ET/F: 1552.76
+
+Alg_2_1200u_1t_Sequential_100f_T3:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 158016 Frames: 100 Media ET/F: 1580.16
+
+Alg_2_1200u_1t_Sequential_100f_T4:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 154483 Frames: 100 Media ET/F: 1544.83
+
+Alg_2_1200u_1t_Sequential_100f_T5:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 152025 Frames: 100 Media ET/F: 1520.25
+
+Alg_2_1200u_1t_Sequential_100f_T6:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 156459 Frames: 100 Media ET/F: 1564.59
+
+Alg_2_1200u_1t_Sequential_100f_T7:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 159220 Frames: 100 Media ET/F: 1592.20
+
+Alg_2_1200u_1t_Sequential_100f_T8:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 154177 Frames: 100 Media ET/F: 1541.77
+
+Alg_2_1200u_1t_Sequential_100f_T9:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 152618 Frames: 100 Media ET/F: 1526.18
+
+Alg_2_1200u_1t_Sequential_100f_T10:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 157270 Frames: 100 Media ET/F: 1572.70
+
+Alg_2_1200u_1t_Sequential_100f_T11:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 159788 Frames: 100 Media ET/F: 1597.88
+
+Alg_2_1200u_1t_Sequential_100f_T12:
+A_FPS: 0 Max_FPS: 0 Min_FPS: 0, Finished Execution, Execution Time: 151442 Frames: 100 Media ET/F: 1514.42
+
