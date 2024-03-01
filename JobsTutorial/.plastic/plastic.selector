@@ -1,4 +1,0 @@
-repository "JobsExperiment@Darkio@cloud"
-  path "/"
-    br "/main"
-    co "/main"
